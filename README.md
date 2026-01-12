@@ -1,5 +1,5 @@
 # Pagination
-Java script pagination with tailwind. A collection of buttons
+JavaScript pagination with tailwind. A collection of buttons
 
 ## Features
 - Define items per page
